@@ -52,7 +52,3 @@ The script performs the following actions:
 ## License
 
 This script is licensed under the [MIT License](LICENSE).
-
-Feel free to customize the script to suit your needs and happy system setup!
-
-
